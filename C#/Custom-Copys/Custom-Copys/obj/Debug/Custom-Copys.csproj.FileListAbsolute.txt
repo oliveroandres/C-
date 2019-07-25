@@ -1,0 +1,13 @@
+D:\Custom-Copys\Custom-Copys\bin\Debug\Custom-Copys.exe.config
+D:\Custom-Copys\Custom-Copys\bin\Debug\Custom-Copys.exe
+D:\Custom-Copys\Custom-Copys\bin\Debug\Custom-Copys.pdb
+D:\Custom-Copys\Custom-Copys\bin\Debug\MySql.Data.dll
+D:\Custom-Copys\Custom-Copys\bin\Debug\Google.Protobuf.dll
+D:\Custom-Copys\Custom-Copys\bin\Debug\BouncyCastle.Crypto.dll
+D:\Custom-Copys\Custom-Copys\bin\Debug\MySql.Data.xml
+D:\Custom-Copys\Custom-Copys\obj\Debug\Custom-Copys.csprojResolveAssemblyReference.cache
+D:\Custom-Copys\Custom-Copys\obj\Debug\Custom_Copys.Form1.resources
+D:\Custom-Copys\Custom-Copys\obj\Debug\Custom_Copys.Properties.Resources.resources
+D:\Custom-Copys\Custom-Copys\obj\Debug\Custom-Copys.csproj.GenerateResource.Cache
+D:\Custom-Copys\Custom-Copys\obj\Debug\Custom-Copys.exe
+D:\Custom-Copys\Custom-Copys\obj\Debug\Custom-Copys.pdb
